@@ -1,0 +1,6 @@
+{
+  "name": "PDF Toolkit",
+  "description": "Private browser-based PDF and Word document tools. Merge, split, organize, convert PDF to Word, Word to PDF, image conversion, watermark, and page numbers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
